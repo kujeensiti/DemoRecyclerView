@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Recycler View</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. </string>
+    <string name="read_more">Read More</string>
+</resources>
